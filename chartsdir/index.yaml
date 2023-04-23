@@ -3,12 +3,12 @@ entries:
   flaskwebapp:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-04-23T19:03:54.103240674Z"
+    created: "2023-04-23T19:15:50.461411564Z"
     description: A Helm chart for Kubernetes for running a flaskwebpp.
-    digest: 506888450b64dbe725e44e3c41ac7827caca2a1b428bdea4f253035047b0a7d1
+    digest: d8a386504174b8065c05133fc96c433369ddd386abbd1cc537d616ee3d424e38
     name: flaskwebapp
     type: application
     urls:
-    - flaskwebapp-0.1.0.tgz
-    version: 0.1.0
-generated: "2023-04-23T19:03:54.102377007Z"
+    - flaskwebapp-0.1.1.tgz
+    version: 0.1.1
+generated: "2023-04-23T19:15:50.460749724Z"
